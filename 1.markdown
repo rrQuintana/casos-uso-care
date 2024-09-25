@@ -282,3 +282,5 @@ graph TD
 ### Explicación:
 - Los actores involucrados son **Usuario** y **Sistema de Gestión de Autos**.
 - Los casos de uso incluyen la visualización de un listado de autos, los botones de cada auto, los servicios realizados, los próximos servicios y los reminders de trámites.
+
+---
